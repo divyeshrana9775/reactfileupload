@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactfileupload/static/css/main.b100e6da.chunk.css",
+    "main.js": "/reactfileupload/static/js/main.987702e4.chunk.js",
+    "main.js.map": "/reactfileupload/static/js/main.987702e4.chunk.js.map",
+    "runtime-main.js": "/reactfileupload/static/js/runtime-main.49046f60.js",
+    "runtime-main.js.map": "/reactfileupload/static/js/runtime-main.49046f60.js.map",
+    "static/css/2.ea2274ab.chunk.css": "/reactfileupload/static/css/2.ea2274ab.chunk.css",
+    "static/js/2.a5615d18.chunk.js": "/reactfileupload/static/js/2.a5615d18.chunk.js",
+    "static/js/2.a5615d18.chunk.js.map": "/reactfileupload/static/js/2.a5615d18.chunk.js.map",
+    "index.html": "/reactfileupload/index.html",
+    "precache-manifest.da1f65d81ffe396d6459f993eed0a342.js": "/reactfileupload/precache-manifest.da1f65d81ffe396d6459f993eed0a342.js",
+    "service-worker.js": "/reactfileupload/service-worker.js",
+    "static/css/2.ea2274ab.chunk.css.map": "/reactfileupload/static/css/2.ea2274ab.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/reactfileupload/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/reactfileupload/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49046f60.js",
+    "static/css/2.ea2274ab.chunk.css",
+    "static/js/2.a5615d18.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.987702e4.chunk.js"
+  ]
+}
